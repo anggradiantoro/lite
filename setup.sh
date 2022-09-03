@@ -24,7 +24,7 @@ clear
 echo ""
 echo ""
 echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e " \E[0;100;33m        • AutoScript by SALVPN •            \E[0m"
+echo -e " \E[0;100;33m        • AutoScript by bagoesvpn •            \E[0m"
 echo -e "\e[33m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo "" 
 echo -e "$green               Telegram:$NC $red@mizonesegeur               $NC"
